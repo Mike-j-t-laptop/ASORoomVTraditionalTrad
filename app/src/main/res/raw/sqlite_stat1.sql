@@ -1,0 +1,15 @@
+INSERT INTO "sqlite_stat1" VALUES ('tracks', 'IFK_TrackMediaTypeId', '3503 701');
+INSERT INTO "sqlite_stat1" VALUES ('tracks', 'IFK_TrackGenreId', '3503 141');
+INSERT INTO "sqlite_stat1" VALUES ('tracks', 'IFK_TrackAlbumId', '3503 11');
+INSERT INTO "sqlite_stat1" VALUES ('playlist_track', 'IFK_PlaylistTrackTrackId', '8715 3');
+INSERT INTO "sqlite_stat1" VALUES ('playlist_track', 'sqlite_autoindex_playlist_track_1', '8715 623 1');
+INSERT INTO "sqlite_stat1" VALUES ('albums', 'IFK_AlbumArtistId', '347 2');
+INSERT INTO "sqlite_stat1" VALUES ('artists', NULL, '275');
+INSERT INTO "sqlite_stat1" VALUES ('customers', 'IFK_CustomerSupportRepId', '59 20');
+INSERT INTO "sqlite_stat1" VALUES ('playlists', NULL, '18');
+INSERT INTO "sqlite_stat1" VALUES ('employees', 'IFK_EmployeeReportsTo', '8 2');
+INSERT INTO "sqlite_stat1" VALUES ('genres', NULL, '25');
+INSERT INTO "sqlite_stat1" VALUES ('invoices', 'IFK_InvoiceCustomerId', '412 7');
+INSERT INTO "sqlite_stat1" VALUES ('media_types', NULL, '5');
+INSERT INTO "sqlite_stat1" VALUES ('invoice_items', 'IFK_InvoiceLineTrackId', '2240 2');
+INSERT INTO "sqlite_stat1" VALUES ('invoice_items', 'IFK_InvoiceLineInvoiceId', '2240 6');
